@@ -57,7 +57,7 @@ document.addEventListener("DOMContentLoaded", () => {
       logo_bc715221_f38b_iconGeometry,
       logo_bc715221_f38b_image
     );
-    logo_bc715221_f38b.scale.set(0.1, 0.1, 1);
+    logo_bc715221_f38b.scale.set(0.2, 0.2, 1);
     logo_bc715221_f38b.position.set(-0.4, -0.4, 0);
     logo_bc715221_f38b.rotation.set(-0.0007963267948964958, 0, 0);
     logo_bc715221_f38b.userData.clickable = true;
@@ -72,7 +72,7 @@ document.addEventListener("DOMContentLoaded", () => {
       logo_5cb2669a_2d1a_iconGeometry,
       logo_5cb2669a_2d1a_image
     );
-    logo_5cb2669a_2d1a.scale.set(0.1, 0.1, 1);
+    logo_5cb2669a_2d1a.scale.set(0.2, 0.2, 1);
     logo_5cb2669a_2d1a.position.set(0, -0.4, 0);
     logo_5cb2669a_2d1a.rotation.set(-0.0007963267948964958, 0, 0);
     logo_5cb2669a_2d1a.userData.clickable = true;
@@ -87,7 +87,7 @@ document.addEventListener("DOMContentLoaded", () => {
       logo_0d289e59_7576_iconGeometry,
       logo_0d289e59_7576_image
     );
-    logo_0d289e59_7576.scale.set(0.1, 0.1, 1);
+    logo_0d289e59_7576.scale.set(0.2, 0.2, 1);
     logo_0d289e59_7576.position.set(0.4, -0.4, 0);
     logo_0d289e59_7576.rotation.set(-0.0007963267948964958, 0, 0);
     logo_0d289e59_7576.userData.clickable = true;
