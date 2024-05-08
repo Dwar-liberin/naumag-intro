@@ -109,6 +109,8 @@ document.addEventListener("DOMContentLoaded", () => {
           o = o.parent;
         }
 
+        if (o.userData.clickable) window.showLoadingScreen();
+        
         if (o.userData.clickable && o === logo_bc715221_f38b) {
           window.location.href = "https://vk.com/naumag";
         }
