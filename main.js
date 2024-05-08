@@ -9,6 +9,7 @@ document.addEventListener("DOMContentLoaded", () => {
     const mindThree = new MindARThree({
       container: document.body,
       imageTargetSrc: "assets/target.mind",
+      uiLoading: "#scanning-overlay",
     });
 
     const { renderer, scene, camera } = mindThree;
